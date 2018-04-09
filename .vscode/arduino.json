@@ -1,4 +1,5 @@
 {
     "board": "Intel:arc32:arduino_101",
-    "port": "COM6"
+    "port": "COM8",
+    "sketch": "src\\coffeeSensor.ino"
 }
